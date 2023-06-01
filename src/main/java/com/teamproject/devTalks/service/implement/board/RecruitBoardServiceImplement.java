@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
@@ -22,7 +21,6 @@ import com.teamproject.devTalks.entity.board.RecruitBoardEntity;
 import com.teamproject.devTalks.entity.comment.RecruitCommentEntity;
 import com.teamproject.devTalks.entity.hashTag.RecruitBoardHashTagEntity;
 import com.teamproject.devTalks.entity.heart.RecruitHeartEntity;
-import com.teamproject.devTalks.entity.primaryKey.recruit.RecruitHashtagPk;
 import com.teamproject.devTalks.entity.resultSet.RecruitBoardListResultSet;
 import com.teamproject.devTalks.entity.user.UserEntity;
 import com.teamproject.devTalks.repository.board.RecruitBoardRepository;

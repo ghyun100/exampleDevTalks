@@ -6,7 +6,6 @@ import com.teamproject.devTalks.dto.request.board.notice.PostNoticeBoardRequestD
 import com.teamproject.devTalks.dto.response.ResponseDto;
 import com.teamproject.devTalks.dto.response.board.notice.GetNoticeBoardListResponseDto;
 import com.teamproject.devTalks.dto.response.board.notice.GetNoticeBoardResponseDto;
-import com.teamproject.devTalks.entity.user.AdminEntity;
 import com.teamproject.devTalks.security.AdminPrinciple;
 import com.teamproject.devTalks.service.board.NoticeBoardService;
 import lombok.RequiredArgsConstructor;

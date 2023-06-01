@@ -1,7 +1,5 @@
 package com.teamproject.devTalks.controller.report;
 
-import java.nio.file.attribute.UserPrincipal;
-
 import javax.validation.Valid;
 
 import org.springframework.http.ResponseEntity;

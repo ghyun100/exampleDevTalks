@@ -6,7 +6,6 @@ import java.util.List;
 import com.teamproject.devTalks.dto.response.ResponseDto;
 import com.teamproject.devTalks.entity.board.QnaBoardEntity;
 import com.teamproject.devTalks.entity.comment.QnaCommentEntity;
-import com.teamproject.devTalks.entity.hashTag.QnaBoardHashTagEntity;
 import com.teamproject.devTalks.entity.user.UserEntity;
 
 import lombok.AllArgsConstructor;

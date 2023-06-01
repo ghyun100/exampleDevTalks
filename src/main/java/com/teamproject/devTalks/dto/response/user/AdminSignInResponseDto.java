@@ -2,7 +2,6 @@ package com.teamproject.devTalks.dto.response.user;
 
 import com.teamproject.devTalks.dto.response.ResponseDto;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Getter

@@ -1,11 +1,7 @@
 package com.teamproject.devTalks.controller.board;
 
-import java.nio.file.attribute.UserPrincipal;
-
 import javax.validation.Valid;
 
-import org.apache.catalina.connector.Response;
-import org.apache.tomcat.jni.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.DeleteMapping;

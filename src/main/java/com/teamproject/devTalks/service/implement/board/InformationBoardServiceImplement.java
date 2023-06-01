@@ -3,9 +3,6 @@ package com.teamproject.devTalks.service.implement.board;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.aspectj.lang.annotation.RequiredTypes;
-import org.hibernate.jdbc.Expectations;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
@@ -19,7 +16,6 @@ import com.teamproject.devTalks.repository.user.AdminRepository;
 import com.teamproject.devTalks.repository.user.UserRepository;
 import com.teamproject.devTalks.dto.response.board.information.GetInformationBoardListResponseDto;
 import com.teamproject.devTalks.dto.response.board.information.GetInformationBoardResponseDto;
-import com.teamproject.devTalks.dto.response.board.recruit.GetRecruitBoardListResponseDto;
 import com.teamproject.devTalks.entity.board.InformationBoardEntity;
 import com.teamproject.devTalks.entity.comment.InformationCommentEntity;
 import com.teamproject.devTalks.entity.hashTag.InformationBoardHashtagEntity;

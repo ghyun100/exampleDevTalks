@@ -1,6 +1,5 @@
 package com.teamproject.devTalks.service.board;
 
-import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
 
 import com.teamproject.devTalks.dto.request.board.recruit.PatchRecruitBoardRequestDto;

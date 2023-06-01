@@ -1,9 +1,7 @@
 package com.teamproject.devTalks.dto.response.user;
 
-import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.teamproject.devTalks.dto.response.ResponseDto;
 import com.teamproject.devTalks.entity.resultSet.UserListResultSet;
-import lombok.Data;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

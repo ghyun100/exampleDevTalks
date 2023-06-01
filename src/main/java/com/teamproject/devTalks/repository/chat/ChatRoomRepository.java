@@ -10,7 +10,6 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
-import com.mysql.cj.protocol.Message;
 import com.teamproject.devTalks.entity.chat.ChatRoomEntity;
 import com.teamproject.devTalks.entity.primaryKey.chat.ChatRoomPk;
 import com.teamproject.devTalks.entity.resultSet.chat.ChatRoomListResultSet;

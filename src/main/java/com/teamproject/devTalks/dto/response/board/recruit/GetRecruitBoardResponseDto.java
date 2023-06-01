@@ -6,7 +6,6 @@ import java.util.List;
 import com.teamproject.devTalks.dto.response.ResponseDto;
 import com.teamproject.devTalks.entity.board.RecruitBoardEntity;
 import com.teamproject.devTalks.entity.comment.RecruitCommentEntity;
-import com.teamproject.devTalks.entity.hashTag.RecruitBoardHashTagEntity;
 import com.teamproject.devTalks.entity.heart.RecruitHeartEntity;
 import com.teamproject.devTalks.entity.user.UserEntity;
 

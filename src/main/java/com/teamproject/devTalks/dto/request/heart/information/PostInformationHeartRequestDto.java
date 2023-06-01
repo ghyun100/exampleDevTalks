@@ -1,6 +1,5 @@
 package com.teamproject.devTalks.dto.request.heart.information;
 
-import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
 import lombok.AllArgsConstructor;

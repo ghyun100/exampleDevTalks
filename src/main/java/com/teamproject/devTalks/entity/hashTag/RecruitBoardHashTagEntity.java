@@ -1,7 +1,5 @@
 package com.teamproject.devTalks.entity.hashTag;
 
-import java.util.List;
-
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.IdClass;
